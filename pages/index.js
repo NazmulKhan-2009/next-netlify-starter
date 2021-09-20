@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          That is testing on netlify  <code>pages/index.js</code>
+          That is testing on netlify deploy<code>pages/index.js</code>
         </p>
       </main>
 
